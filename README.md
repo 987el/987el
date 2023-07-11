@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @987el
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: 987elogutu@gmail.com
+
+<!---
+l look forward in growing my skill set and collaborating with other developers.
+--->
